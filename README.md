@@ -21,8 +21,6 @@ A lightweight GitHub repo search app with debounced querying and an accessible A
 ## Quickstart
 
 ```bash
-git clone https://github.com/your-org/fe-accordion-challenge.git
-cd fe-accordion-challenge
 npm install
 npm run dev   # → http://localhost:5173
 npm test      # → Jest + React Testing Library
